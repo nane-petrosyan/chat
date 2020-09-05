@@ -13,6 +13,8 @@ Minimal back-end for your chat application in Spring Boot and Hibernate.
 
 `GET /chatoom?id={id}` to get messages of a specific chatroom
 
+Subscribe and receive messages `/receive/{chatroomId}`
+
 _________________________
 
 Don't forget to put "Authorization" header with Bearer {token} value in order to authorize.

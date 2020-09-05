@@ -1,7 +1,6 @@
 package com.basicapps.chat.controllers.http;
 
 import com.basicapps.chat.services.ChatroomService;
-import org.apache.catalina.core.ApplicationContext;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
